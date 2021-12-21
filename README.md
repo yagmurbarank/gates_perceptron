@@ -1,1 +1,1 @@
-# gates_perceptron
+# gates_perceptron XOR
